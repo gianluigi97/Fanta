@@ -1,0 +1,312 @@
+{'statsId': 'games-played', 'statsLabel': 'Games played', 'statsLabelAbbreviation': 'GP', 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'minutes-played', 'statsLabel': 'Minutes played', 'statsLabelAbbreviation': 'Mins', 'statsValue': 275, 'statsUnit': 'minutes', 'statsUnitAbbreviation': "'"}
+{'statsId': 'goals', 'statsLabel': 'Goals', 'statsLabelAbbreviation': 'G', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'assists', 'statsLabel': 'Assists', 'statsLabelAbbreviation': 'A', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-scoring-attempts', 'statsLabel': 'Total scoring attempts', 'statsLabelAbbreviation': 'S', 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goal-involvements', 'statsLabel': 'Goals Involvements', 'statsLabelAbbreviation': 'GI', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'on-target-scoring-attempts', 'statsLabel': 'On target scoring attempts', 'statsLabelAbbreviation': 'SOT', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-attacking-assist', 'statsLabel': 'Total attacking assists', 'statsLabelAbbreviation': 'KP', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'tackles-won', 'statsLabel': 'Tackles won', 'statsLabelAbbreviation': 'Tackles', 'statsValue': 8, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'fouls-committed', 'statsLabel': 'Fouls committed', 'statsLabelAbbreviation': 'FC', 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'fouls-suffered', 'statsLabel': 'Fouls suffered', 'statsLabelAbbreviation': 'FS', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-offside', 'statsLabel': 'Total offside', 'statsLabelAbbreviation': 'OFF', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'yellow-cards', 'statsLabel': 'Yellow cards', 'statsLabelAbbreviation': 'YC', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'red-cards', 'statsLabel': 'Red cards', 'statsLabelAbbreviation': 'RC', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Aerials-Won-Perc', 'statsLabel': 'Aerials Won Percentage', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurate-pass-percentage', 'statsLabel': 'Accurate pass percentage', 'statsLabelAbbreviation': 'Pass%', 'statsValue': 92, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goals-conceded', 'statsLabel': 'Goals conceded', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goals-against-average', 'statsLabel': 'Goals against average', 'statsLabelAbbreviation': 'GAA', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'corners', 'statsLabel': 'corners', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goals-free-kick', 'statsLabel': 'Goals Free kick', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'hit-woodwork', 'statsLabel': 'Hit Woodwork', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penalty-attempts', 'statsLabel': 'Penalty Attempts', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penalties-successful', 'statsLabel': 'Penalties Successful', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'yellow-red-cards', 'statsLabel': 'Yellow Red Cards', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Xg', 'statsLabel': 'Xg', 'statsLabelAbbreviation': '', 'statsValue': 0.499, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'XGEfficiency', 'statsLabel': 'XGEfficiency', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'tackles-won-perc', 'statsLabel': 'Tackles Won Percentage', 'statsLabelAbbreviation': '%', 'statsValue': 72.73, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'duels-won-perc', 'statsLabel': 'Duels Won Percentage', 'statsLabelAbbreviation': '%', 'statsValue': 57.14, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'aerial-duels-won-perc', 'statsLabel': 'Aerial Duels Won Percentage', 'statsLabelAbbreviation': '%', 'statsValue': 75, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'crosses-complete-percentage', 'statsLabel': 'Cross Complete Percentage', 'statsLabelAbbreviation': '', 'statsValue': 14.29, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-distance-covered', 'statsLabel': 'Total Distance Covered', 'statsLabelAbbreviation': '', 'statsValue': 29.61309, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'avg-distance-covered', 'statsLabel': 'Average Distance Covered', 'statsLabelAbbreviation': '', 'statsValue': 9.87103, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-distance-covered-walking', 'statsLabel': 'Total Distance Covered Walking', 'statsLabelAbbreviation': '', 'statsValue': 12.02183, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'average-distance-covered-walking', 'statsLabel': 'Average Distance Covered Walking', 'statsLabelAbbreviation': '', 'statsValue': 4.00728, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-distance-covered-jogging', 'statsLabel': 'Total Distance Covered Jogging', 'statsLabelAbbreviation': '', 'statsValue': 11.62768, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'average-distance-covered-jogging', 'statsLabel': 'Average Distance Covered Jogging', 'statsLabelAbbreviation': '', 'statsValue': 3.87589, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-distance-covered-low-intensity-running', 'statsLabel': 'Total Distance Covered Low Intensity Running', 'statsLabelAbbreviation': '', 'statsValue': 3.49418, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'average-distance-covered-low-intensity-running', 'statsLabel': 'Average Distance Covered Low Intensity Running', 'statsLabelAbbreviation': '', 'statsValue': 1.16473, 'statsUnit': 'kilometres', 'statsUnitAbbreviation': 'km'}
+{'statsId': 'total-distance-covered-sprinting', 'statsLabel': 'Total Distance Covered Sprinting', 'statsLabelAbbreviation': '', 'statsValue': 0.53187, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'average-distance-covered-sprinting', 'statsLabel': 'Average Distance Covered Sprinting', 'statsLabelAbbreviation': '', 'statsValue': 0.17729, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-distance-covered-high-intensity-running', 'statsLabel': 'Total Distance Covered High Intensity Running', 'statsLabelAbbreviation': '', 'statsValue': 1.7608, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'average-distance-covered-high-intensity-running', 'statsLabel': 'Average Distance Covered High Intensity Running', 'statsLabelAbbreviation': '', 'statsValue': 0.58693, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'sprints', 'statsLabel': 'Sprints', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'average-speed', 'statsLabel': 'Average Speed', 'statsLabelAbbreviation': '', 'statsValue': 6.42, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'top-speed', 'statsLabel': 'Top Speed', 'statsLabelAbbreviation': '', 'statsValue': 30.24, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurate-pass', 'statsLabel': 'Accurate pass', 'statsLabelAbbreviation': 'P', 'statsValue': 266, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurate-forward-pass', 'statsLabel': 'Accurate forward pass', 'statsLabelAbbreviation': 'PFwd', 'statsValue': 108, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-pass', 'statsLabel': 'Total pass', 'statsLabelAbbreviation': 'PA', 'statsValue': 7, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cross', 'statsLabel': 'Cross', 'statsLabelAbbreviation': 'Cross', 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'assists-average-over-90-minutes', 'statsLabel': 'Assists average over 90 minutes', 'statsLabelAbbreviation': 'A/90min', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurate-long-balls', 'statsLabel': 'Accurate long balls', 'statsLabelAbbreviation': 'LB', 'statsValue': 22, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'successful-short-passes', 'statsLabel': 'Successful short passes', 'statsLabelAbbreviation': 'SP', 'statsValue': 12, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'turnover', 'statsLabel': 'Turnover', 'statsLabelAbbreviation': 'TO', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cross-attempts', 'statsLabel': 'Cross Attempts', 'statsLabelAbbreviation': '', 'statsValue': 7, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'long-pass-attempts', 'statsLabel': 'Long Pass Attempts', 'statsLabelAbbreviation': '', 'statsValue': 33, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'long-passes-successful', 'statsLabel': 'Long Passes Successful', 'statsLabelAbbreviation': '', 'statsValue': 22, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'medium-passes-successful', 'statsLabel': 'Medium Passes Successful', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goals-average-over-90-minutes', 'statsLabel': 'Goals average over 90 minutes', 'statsLabelAbbreviation': 'G/90min', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penalty-kick-goals', 'statsLabel': 'Penalty kick goals', 'statsLabelAbbreviation': 'PKG', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penalty-kick-taken', 'statsLabel': 'Penalty kick taken', 'statsLabelAbbreviation': 'PKA', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penalty-kick-percentage', 'statsLabel': 'Penalty kick percentage', 'statsLabelAbbreviation': 'PK%', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurate-shooting-percentage', 'statsLabel': 'Accurate shooting percentage', 'statsLabelAbbreviation': 'SHT%', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'successful-dribble', 'statsLabel': 'Successful dribble', 'statsLabelAbbreviation': 'DRBs', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'dribble-percentage', 'statsLabel': 'Dribble percentage', 'statsLabelAbbreviation': 'DRB%', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goals-plus-assists', 'statsLabel': 'Goals + assists', 'statsLabelAbbreviation': 'G+A', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'dribble-attemps', 'statsLabel': 'Dribble Attempts', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsOnGoalPerc', 'statsLabel': 'Shots On Goal Percentage %', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'tackle', 'statsLabel': 'Tackles', 'statsLabelAbbreviation': 'Tackles', 'statsValue': 8, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'tackle-percentage', 'statsLabel': 'Tackles percentage', 'statsLabelAbbreviation': 'Tackles %', 'statsValue': 73, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'interception', 'statsLabel': 'Interception', 'statsLabelAbbreviation': 'INT', 'statsValue': 9, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'headed-duel', 'statsLabel': 'Headed duel', 'statsLabelAbbreviation': 'HD', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'saves', 'statsLabel': 'Saves', 'statsLabelAbbreviation': 'Saves', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penalty-conceded', 'statsLabel': 'Penalty conceded', 'statsLabelAbbreviation': 'PKGA', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'long-ball-percentage', 'statsLabel': 'Long ball percentage', 'statsLabelAbbreviation': 'LB%', 'statsValue': 67, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'total-cleareance', 'statsLabel': 'Total cleareance', 'statsLabelAbbreviation': 'CLR', 'statsValue': 6, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goalkeeper-saves-per-90-min', 'statsLabel': 'GoalKeeper Saves Per 90 Minutes', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goalkeeper-saves-per-match', 'statsLabel': 'GoalKeeper Saves Per Match', 'statsLabelAbbreviation': '', 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Losses Of Possession', 'statsLabel': 'Total Losses Of Possession', 'statsLabelAbbreviation': None, 'statsValue': 14, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Goals from Outside Box', 'statsLabel': 'Goals from Outside Box', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Penalty Goals', 'statsLabel': 'Penalty Goals', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Red Cards', 'statsLabel': 'Total Red Cards', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Successful Dribbles', 'statsLabel': 'Successful Dribbles', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Foul Attempted Tackle', 'statsLabel': 'Foul Attempted Tackle', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Successful Crosses and Corners', 'statsLabel': 'Successful Crosses and Corners', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Shots On Target ( inc goals )', 'statsLabel': 'Shots On Target ( inc goals )', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Clearances', 'statsLabel': 'Total Clearances', 'statsLabelAbbreviation': None, 'statsValue': 6, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Duels lost', 'statsLabel': 'Duels lost', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Starts', 'statsLabel': 'Starts', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Successful Crosses open play', 'statsLabel': 'Successful Crosses open play', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'expectedGoals', 'statsLabel': 'expectedGoals', 'statsLabelAbbreviation': None, 'statsValue': 0.499, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Ground Duels lost', 'statsLabel': 'Ground Duels lost', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Successful Passes ( Excl Crosses & Corners )', 'statsLabel': 'Total Successful Passes ( Excl Crosses & Corners )', 'statsLabelAbbreviation': None, 'statsValue': 266, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Passing Accuracy', 'statsLabel': 'Passing Accuracy', 'statsLabelAbbreviation': None, 'statsValue': 92, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Backward Passes', 'statsLabel': 'Backward Passes', 'statsLabelAbbreviation': None, 'statsValue': 55, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Substitute Off', 'statsLabel': 'Substitute Off', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Ground Duels won', 'statsLabel': 'Ground Duels won', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Successful Passes Opposition Half', 'statsLabel': 'Successful Passes Opposition Half', 'statsLabelAbbreviation': None, 'statsValue': 94, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Aerial Duels', 'statsLabel': 'Aerial Duels', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Shots', 'statsLabel': 'Total Shots', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Fouls Conceded', 'statsLabel': 'Total Fouls Conceded', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Successful Long Passes', 'statsLabel': 'Successful Long Passes', 'statsLabelAbbreviation': None, 'statsValue': 22, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Successful Passes Own Half', 'statsLabel': 'Successful Passes Own Half', 'statsLabelAbbreviation': None, 'statsValue': 172, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Key Passes (Attempt Assists)', 'statsLabel': 'Key Passes (Attempt Assists)', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Hit Woodwork', 'statsLabel': 'Hit Woodwork', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Left Foot Goals', 'statsLabel': 'Left Foot Goals', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Aerial Duels won', 'statsLabel': 'Aerial Duels won', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Set Piece Goals', 'statsLabel': 'Set Piece Goals', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Duels won', 'statsLabel': 'Duels won', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Games Played', 'statsLabel': 'Games Played', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Touches', 'statsLabel': 'Touches', 'statsLabelAbbreviation': None, 'statsValue': 329, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Unsuccessful Dribbles', 'statsLabel': 'Unsuccessful Dribbles', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Red Card - 2nd Yellow', 'statsLabel': 'Red Card - 2nd Yellow', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Successful Short Passes', 'statsLabel': 'Successful Short Passes', 'statsLabelAbbreviation': None, 'statsValue': 12, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Offsides', 'statsLabel': 'Offsides', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Yellow Cards', 'statsLabel': 'Yellow Cards', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Goals from Inside Box', 'statsLabel': 'Goals from Inside Box', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Own Goal Scored', 'statsLabel': 'Own Goal Scored', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Through Balls', 'statsLabel': 'Through Balls', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Penalties Taken', 'statsLabel': 'Penalties Taken', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Shots Off Target (inc woodwork)', 'statsLabel': 'Shots Off Target (inc woodwork)', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Duels', 'statsLabel': 'Duels', 'statsLabelAbbreviation': None, 'statsValue': 7, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Handballs conceded', 'statsLabel': 'Handballs conceded', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Interceptions', 'statsLabel': 'Interceptions', 'statsLabelAbbreviation': None, 'statsValue': 9, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Substitute On', 'statsLabel': 'Substitute On', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Unsuccessful Crosses & Corners', 'statsLabel': 'Unsuccessful Crosses & Corners', 'statsLabelAbbreviation': None, 'statsValue': 6, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Attempts from Set Pieces', 'statsLabel': 'Attempts from Set Pieces', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Headed Goals', 'statsLabel': 'Headed Goals', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Second Goal Assists', 'statsLabel': 'Second Goal Assists', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Straight Red Cards', 'statsLabel': 'Straight Red Cards', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Corners Taken (incl short corners)', 'statsLabel': 'Corners Taken (incl short corners)', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Tackles Won', 'statsLabel': 'Tackles Won', 'statsLabelAbbreviation': None, 'statsValue': 8, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Right Foot Goals', 'statsLabel': 'Right Foot Goals', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Hit Woodwork', 'statsLabel': 'Hit Woodwork', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Goals', 'statsLabel': 'Goals', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Blocked Shots', 'statsLabel': 'Blocked Shots', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Goal Assists', 'statsLabel': 'Goal Assists', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Aerial Duels lost', 'statsLabel': 'Aerial Duels lost', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Recoveries', 'statsLabel': 'Recoveries', 'statsLabelAbbreviation': None, 'statsValue': 16, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Tackles', 'statsLabel': 'Total Tackles', 'statsLabelAbbreviation': None, 'statsValue': 11, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Passes', 'statsLabel': 'Total Passes', 'statsLabelAbbreviation': None, 'statsValue': 289, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Forward Passes', 'statsLabel': 'Forward Passes', 'statsLabelAbbreviation': None, 'statsValue': 128, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Ground Duels', 'statsLabel': 'Ground Duels', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Fouls Won', 'statsLabel': 'Total Fouls Won', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Total Touches in Opposition Box', 'statsLabel': 'Total Touches in Opposition Box', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'Time Played', 'statsLabel': 'Time Played', 'statsLabelAbbreviation': None, 'statsValue': 275, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffHalfPassPerc', 'statsLabel': 'accurateOffHalfPassPerc', 'statsLabelAbbreviation': None, 'statsValue': 94.95, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalAssistAvg', 'statsLabel': 'totalAssistAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateSwitchPass', 'statsLabel': 'accurateSwitchPass', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateEarlyCrossPerc', 'statsLabel': 'accurateEarlyCrossPerc', 'statsLabelAbbreviation': None, 'statsValue': 25, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfHorizPass', 'statsLabel': 'defHalfHorizPass', 'statsLabelAbbreviation': None, 'statsValue': 73, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offTurnover', 'statsLabel': 'offTurnover', 'statsLabelAbbreviation': None, 'statsValue': 9, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cutBackPass', 'statsLabel': 'cutBackPass', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cornerGoal', 'statsLabel': 'cornerGoal', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'freeKickDanger', 'statsLabel': 'freeKickDanger', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cornerPass', 'statsLabel': 'cornerPass', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'freekickCross', 'statsLabel': 'freekickCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cornerCross', 'statsLabel': 'cornerCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsInsideBox', 'statsLabel': 'shotsInsideBox', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsCrossbar', 'statsLabel': 'shotsCrossbar', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offThirdForwardPass', 'statsLabel': 'offThirdForwardPass', 'statsLabelAbbreviation': None, 'statsValue': 16, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfGroundDuelsLost', 'statsLabel': 'defHalfGroundDuelsLost', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfGroundDuels', 'statsLabel': 'offHalfGroundDuels', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOpenPlayCrossPerc', 'statsLabel': 'accurateOpenPlayCrossPerc', 'statsLabelAbbreviation': None, 'statsValue': 14.29, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalShotsMissed', 'statsLabel': 'totalShotsMissed', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'earlyCrossFromLeft', 'statsLabel': 'earlyCrossFromLeft', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfGroundDuelsWon', 'statsLabel': 'offHalfGroundDuelsWon', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfHorizPass', 'statsLabel': 'offHalfHorizPass', 'statsLabelAbbreviation': None, 'statsValue': 33, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfGroundDuelsLost', 'statsLabel': 'offHalfGroundDuelsLost', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'turnoverPerc', 'statsLabel': 'turnoverPerc', 'statsLabelAbbreviation': None, 'statsValue': 4.7, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfAerialDuelsWonPerc', 'statsLabel': 'defHalfAerialDuelsWonPerc', 'statsLabelAbbreviation': None, 'statsValue': 100, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOpenPlayCrossFromLeftPerc', 'statsLabel': 'accurateOpenPlayCrossFromLeftPerc', 'statsLabelAbbreviation': None, 'statsValue': 14.29, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalShotsRight', 'statsLabel': 'totalShotsRight', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfDuels', 'statsLabel': 'defHalfDuels', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfGroundDuelsWonPerc', 'statsLabel': 'offHalfGroundDuelsWonPerc', 'statsLabelAbbreviation': None, 'statsValue': 33.33, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'openPlayCross', 'statsLabel': 'openPlayCross', 'statsLabelAbbreviation': None, 'statsValue': 7, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateBackwardPass', 'statsLabel': 'accurateBackwardPass', 'statsLabelAbbreviation': None, 'statsValue': 55, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'horizPass', 'statsLabel': 'horizPass', 'statsLabelAbbreviation': None, 'statsValue': 106, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalBoxEntryPass', 'statsLabel': 'totalBoxEntryPass', 'statsLabelAbbreviation': None, 'statsValue': 11, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfBackwardPass', 'statsLabel': 'offHalfBackwardPass', 'statsLabelAbbreviation': None, 'statsValue': 24, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'lateCrossFromLeft', 'statsLabel': 'lateCrossFromLeft', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateLateCrossFromLeftPerc', 'statsLabel': 'accurateLateCrossFromLeftPerc', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsFailed', 'statsLabel': 'shotsFailed', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateHorizPass', 'statsLabel': 'accurateHorizPass', 'statsLabelAbbreviation': None, 'statsValue': 103, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offThirdHorizPass', 'statsLabel': 'offThirdHorizPass', 'statsLabelAbbreviation': None, 'statsValue': 18, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'openPlayCrossFromRight', 'statsLabel': 'openPlayCrossFromRight', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfAerialDuels', 'statsLabel': 'offHalfAerialDuels', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffThirdPass', 'statsLabel': 'accurateOffThirdPass', 'statsLabelAbbreviation': None, 'statsValue': 45, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'freeKickShots', 'statsLabel': 'freeKickShots', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'throwIn', 'statsLabel': 'throwIn', 'statsLabelAbbreviation': None, 'statsValue': 15, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsPosts', 'statsLabel': 'shotsPosts', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateDefHalfBackwardPass', 'statsLabel': 'accurateDefHalfBackwardPass', 'statsLabelAbbreviation': None, 'statsValue': 31, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'openPlayShots', 'statsLabel': 'openPlayShots', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateThroughPass', 'statsLabel': 'accurateThroughPass', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffThirdHorizPass', 'statsLabel': 'accurateOffThirdHorizPass', 'statsLabelAbbreviation': None, 'statsValue': 18, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateFreeKickCross', 'statsLabel': 'accurateFreeKickCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'throwInCross', 'statsLabel': 'throwInCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateLateCrossPerc', 'statsLabel': 'accurateLateCrossPerc', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateForwardPassPerc', 'statsLabel': 'accurateForwardPassPerc', 'statsLabelAbbreviation': None, 'statsValue': 84.38, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penaltyMissed', 'statsLabel': 'penaltyMissed', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'goalInvolvement', 'statsLabel': 'goalInvolvement', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalSetPiece', 'statsLabel': 'totalSetPiece', 'statsLabelAbbreviation': None, 'statsValue': 29, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'succThrowIn', 'statsLabel': 'succThrowIn', 'statsLabelAbbreviation': None, 'statsValue': 14, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'subsInTotalGoal', 'statsLabel': 'subsInTotalGoal', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfBallActions', 'statsLabel': 'defHalfBallActions', 'statsLabelAbbreviation': None, 'statsValue': 207, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfDuels', 'statsLabel': 'offHalfDuels', 'statsLabelAbbreviation': None, 'statsValue': 6, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffThirdForwardPass', 'statsLabel': 'accurateOffThirdForwardPass', 'statsLabelAbbreviation': None, 'statsValue': 13, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'openPlayCrossFromLeft', 'statsLabel': 'openPlayCrossFromLeft', 'statsLabelAbbreviation': None, 'statsValue': 7, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOpenPlayCrossFromLeft', 'statsLabel': 'accurateOpenPlayCrossFromLeft', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfDuelsWon', 'statsLabel': 'defHalfDuelsWon', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cornerShots', 'statsLabel': 'cornerShots', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'failThrowIn', 'statsLabel': 'failThrowIn', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'openPlayGoal', 'statsLabel': 'openPlayGoal', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfBackwardPass', 'statsLabel': 'defHalfBackwardPass', 'statsLabelAbbreviation': None, 'statsValue': 31, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'setPieceGoal', 'statsLabel': 'setPieceGoal', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfDuelsWon', 'statsLabel': 'offHalfDuelsWon', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalShotsLeft', 'statsLabel': 'totalShotsLeft', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalShotsHead', 'statsLabel': 'totalShotsHead', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalPassAvg', 'statsLabel': 'totalPassAvg', 'statsLabelAbbreviation': None, 'statsValue': 94.6, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfAerialDuelsWon', 'statsLabel': 'offHalfAerialDuelsWon', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'setPieceShots', 'statsLabel': 'setPieceShots', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'setPieceCross', 'statsLabel': 'setPieceCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'freeKick', 'statsLabel': 'freeKick', 'statsLabelAbbreviation': None, 'statsValue': 15, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalCrossAvg', 'statsLabel': 'totalCrossAvg', 'statsLabelAbbreviation': None, 'statsValue': 2.29, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defTurnover', 'statsLabel': 'defTurnover', 'statsLabelAbbreviation': None, 'statsValue': 5, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offRecovery', 'statsLabel': 'offRecovery', 'statsLabelAbbreviation': None, 'statsValue': 5, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateSetPieceCross', 'statsLabel': 'accurateSetPieceCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffThirdPassPerc', 'statsLabel': 'accurateOffThirdPassPerc', 'statsLabelAbbreviation': None, 'statsValue': 93.75, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'footClearance', 'statsLabel': 'footClearance', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsOnGoalAvg', 'statsLabel': 'shotsOnGoalAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offThirdBallsPlayed', 'statsLabel': 'offThirdBallsPlayed', 'statsLabelAbbreviation': None, 'statsValue': 57, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateEarlyCrossFromRight', 'statsLabel': 'accurateEarlyCrossFromRight', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offThirdBallActions', 'statsLabel': 'offThirdBallActions', 'statsLabelAbbreviation': None, 'statsValue': 64, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateLateCrossFromRight', 'statsLabel': 'accurateLateCrossFromRight', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'bigChanceSquander', 'statsLabel': 'bigChanceSquander', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfBallsPlayed', 'statsLabel': 'defHalfBallsPlayed', 'statsLabelAbbreviation': None, 'statsValue': 190, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defRecovery', 'statsLabel': 'defRecovery', 'statsLabelAbbreviation': None, 'statsValue': 11, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'bigChanceConvert', 'statsLabel': 'bigChanceConvert', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'cornerKickAvg', 'statsLabel': 'cornerKickAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfPass', 'statsLabel': 'defHalfPass', 'statsLabelAbbreviation': None, 'statsValue': 190, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offThirdPass', 'statsLabel': 'offThirdPass', 'statsLabelAbbreviation': None, 'statsValue': 48, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffThirdBackwardPass', 'statsLabel': 'accurateOffThirdBackwardPass', 'statsLabelAbbreviation': None, 'statsValue': 14, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalGoalAvg', 'statsLabel': 'totalGoalAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsBlockedAvg', 'statsLabel': 'shotsBlockedAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfForwardPass', 'statsLabel': 'defHalfForwardPass', 'statsLabelAbbreviation': None, 'statsValue': 86, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offThirdBackwardPass', 'statsLabel': 'offThirdBackwardPass', 'statsLabelAbbreviation': None, 'statsValue': 14, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalDribblingAvg', 'statsLabel': 'totalDribblingAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'oppBoxBallsPlayedPerc', 'statsLabel': 'oppBoxBallsPlayedPerc', 'statsLabelAbbreviation': None, 'statsValue': 1.34, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'foulCommitedAvg', 'statsLabel': 'foulCommitedAvg', 'statsLabelAbbreviation': None, 'statsValue': 0.65, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffHalfHorizPass', 'statsLabel': 'accurateOffHalfHorizPass', 'statsLabelAbbreviation': None, 'statsValue': 32, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'freeKickPass', 'statsLabel': 'freeKickPass', 'statsLabelAbbreviation': None, 'statsValue': 8, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsOffGoalAvg', 'statsLabel': 'shotsOffGoalAvg', 'statsLabelAbbreviation': None, 'statsValue': 0.65, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsOnGoalPerc', 'statsLabel': 'shotsOnGoalPerc', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateCornerCross', 'statsLabel': 'accurateCornerCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalBallsPlayed', 'statsLabel': 'totalBallsPlayed', 'statsLabelAbbreviation': None, 'statsValue': 298, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfGroundDuelsWon', 'statsLabel': 'defHalfGroundDuelsWon', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'foulSufferedAvg', 'statsLabel': 'foulSufferedAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfAerialDuelsLost', 'statsLabel': 'defHalfAerialDuelsLost', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfDuelsWonPerc', 'statsLabel': 'offHalfDuelsWonPerc', 'statsLabelAbbreviation': None, 'statsValue': 50, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfTotalDuelsWonPerc', 'statsLabel': 'defHalfTotalDuelsWonPerc', 'statsLabelAbbreviation': None, 'statsValue': 100, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'bigChance', 'statsLabel': 'bigChance', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfAerialDuelsWonPerc', 'statsLabel': 'offHalfAerialDuelsWonPerc', 'statsLabelAbbreviation': None, 'statsValue': 66.67, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'foulHolding', 'statsLabel': 'foulHolding', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'foulPushing', 'statsLabel': 'foulPushing', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'penaltyFoul', 'statsLabel': 'penaltyFoul', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'smartPass', 'statsLabel': 'smartPass', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffHalfForwardPass', 'statsLabel': 'accurateOffHalfForwardPass', 'statsLabelAbbreviation': None, 'statsValue': 38, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'foulOffsideAvg', 'statsLabel': 'foulOffsideAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shortPass', 'statsLabel': 'shortPass', 'statsLabelAbbreviation': None, 'statsValue': 15, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalOnFrameAvg', 'statsLabel': 'totalOnFrameAvg', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateCutBackPass', 'statsLabel': 'accurateCutBackPass', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateEarlyCross', 'statsLabel': 'accurateEarlyCross', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'failTackle', 'statsLabel': 'failTackle', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'earlyCrossFromRight', 'statsLabel': 'earlyCrossFromRight', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateLateCrossFromLeft', 'statsLabel': 'accurateLateCrossFromLeft', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfForwardPass', 'statsLabel': 'offHalfForwardPass', 'statsLabelAbbreviation': None, 'statsValue': 42, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfAerialDuelsWon', 'statsLabel': 'defHalfAerialDuelsWon', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalShotsAvg', 'statsLabel': 'totalShotsAvg', 'statsLabelAbbreviation': None, 'statsValue': 0.65, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'groundDuelsWonPerc', 'statsLabel': 'groundDuelsWonPerc', 'statsLabelAbbreviation': None, 'statsValue': 33.33, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'chanceCreated', 'statsLabel': 'chanceCreated', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateDefHalfForwardPass', 'statsLabel': 'accurateDefHalfForwardPass', 'statsLabelAbbreviation': None, 'statsValue': 70, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsOutsideBox', 'statsLabel': 'shotsOutsideBox', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfGroundDuels', 'statsLabel': 'defHalfGroundDuels', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfBallsPlayed', 'statsLabel': 'offHalfBallsPlayed', 'statsLabelAbbreviation': None, 'statsValue': 108, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'turnoverPass', 'statsLabel': 'turnoverPass', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accuratePassAvg', 'statsLabel': 'accuratePassAvg', 'statsLabelAbbreviation': None, 'statsValue': 87.07, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'earlyCross', 'statsLabel': 'earlyCross', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'lateCross', 'statsLabel': 'lateCross', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfDuelsLost', 'statsLabel': 'defHalfDuelsLost', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateBoxEntryPassPerc', 'statsLabel': 'accurateBoxEntryPassPerc', 'statsLabelAbbreviation': None, 'statsValue': 100, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalPost', 'statsLabel': 'totalPost', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfAerialDuelsLost', 'statsLabel': 'offHalfAerialDuelsLost', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfDuelsLost', 'statsLabel': 'offHalfDuelsLost', 'statsLabelAbbreviation': None, 'statsValue': 3, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'bigChanceConvertPerc', 'statsLabel': 'bigChanceConvertPerc', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateEarlyCrossFromLeftPerc', 'statsLabel': 'accurateEarlyCrossFromLeftPerc', 'statsLabelAbbreviation': None, 'statsValue': 25, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalSwitchPass', 'statsLabel': 'totalSwitchPass', 'statsLabelAbbreviation': None, 'statsValue': 4, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateCrossAvg', 'statsLabel': 'accurateCrossAvg', 'statsLabelAbbreviation': None, 'statsValue': 0.33, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'keyPassAvg', 'statsLabel': 'keyPassAvg', 'statsLabelAbbreviation': None, 'statsValue': 1.31, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOpenPlayCrossFromRight', 'statsLabel': 'accurateOpenPlayCrossFromRight', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'shotsSaved', 'statsLabel': 'shotsSaved', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'defHalfAerialDuels', 'statsLabel': 'defHalfAerialDuels', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalCrossbar', 'statsLabel': 'totalCrossbar', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'totalRecoveryAvg', 'statsLabel': 'totalRecoveryAvg', 'statsLabelAbbreviation': None, 'statsValue': 5.24, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfPass', 'statsLabel': 'offHalfPass', 'statsLabelAbbreviation': None, 'statsValue': 99, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateOffHalfBackwardPass', 'statsLabel': 'accurateOffHalfBackwardPass', 'statsLabelAbbreviation': None, 'statsValue': 24, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateDefHalfHorizPass', 'statsLabel': 'accurateDefHalfHorizPass', 'statsLabelAbbreviation': None, 'statsValue': 71, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'setPiecePass', 'statsLabel': 'setPiecePass', 'statsLabelAbbreviation': None, 'statsValue': 29, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'headClearance', 'statsLabel': 'headClearance', 'statsLabelAbbreviation': None, 'statsValue': 2, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'offHalfBallActions', 'statsLabel': 'offHalfBallActions', 'statsLabelAbbreviation': None, 'statsValue': 122, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateBoxEntryPass', 'statsLabel': 'accurateBoxEntryPass', 'statsLabelAbbreviation': None, 'statsValue': 11, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateLateCross', 'statsLabel': 'accurateLateCross', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'accurateEarlyCrossFromLeft', 'statsLabel': 'accurateEarlyCrossFromLeft', 'statsLabelAbbreviation': None, 'statsValue': 1, 'statsUnit': None, 'statsUnitAbbreviation': None}
+{'statsId': 'lateCrossFromRight', 'statsLabel': 'lateCrossFromRight', 'statsLabelAbbreviation': None, 'statsValue': 0, 'statsUnit': None, 'statsUnitAbbreviation': None}

@@ -3,19 +3,56 @@ import pandas as pd
 import json
 from dotenv import load_dotenv
 import os
+from tqdm import tqdm
+import pandas as pd
 
-load_dotenv(r"/Users/gianluigimosti/WorkPlace/Fanta/key.env")
+required_stats = ['games-played', 'goals', 'assists', 'yellow-cards', 'red-cards', 'dribble-percentage', 'goals-conceded', 'penalty-attempts', 'penalties-successful', 'Xg', 'tackles-won-perc', 'penalty-conceded', 'Substitute Off']
 
-api_key = os.getenv("api-football-key")
+load_dotenv(r"C:\GianC\Fanta\key.env") #WIN
+seasonId="serie-a::Football_Season::ed7fdc2a3e7b408b942ec177b7b956b5"
+url = f"https://api-sdp.legaseriea.it/v1/serie-a/football/seasons/{seasonId}/stats/players?page=current_page"
 
-url = "https://v3.football.api-sports.io/leagues"
 
-payload={}
 headers = {
-  'x-apisports-key': api_key,
+  'User-Agent': "Mozilla/5.0",
 }
+players = []
 
-response = requests.request("GET", url, headers=headers, data=payload)
+for current_page in tqdm(range(1, 15),desc="download players",unit=" pagina", ncols=100):
 
-print(response.text)
+   response = requests.get(url.replace("current_page", str(current_page)), headers=headers, timeout=30)
+   response.raise_for_status()
+
+   result = response.json()
+   players_list = result.get("players", []) or []
+
+   for g in players_list: 
+
+      if not g.get("bibNumber"):
+        continue
+
+      stats=[s for s in g.get("stats", []) if s.get("statsId") in required_stats]
+
+      key = g.get("playerId").split("::")[-1]
+      row = {
+          "key" : key,
+          "name": g.get("shortName"),
+          "team" : (g.get("team") or {}).get("shortName"),
+          "role" : g.get("role"),
+          "number" : g.get("bibNumber"),
+      }
+
+      row.update({
+        s.get("statsId"): s.get("statsValue") 
+        for s in stats
+        })
+
+      players.append(row)
+
+
+
+df = pd.DataFrame(data=players)
+df.to_csv(r"C:/GianC/Fanta/stats_giocatori.csv", index=False)
+print(df)
+
 
