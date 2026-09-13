@@ -5,7 +5,8 @@ from dotenv import load_dotenv
 import os
 
 
-load_dotenv(r"/Users/gianluigimosti/WorkPlace/Fanta/key.env")
+# load_dotenv(r"/Users/gianluigimosti/WorkPlace/Fanta/key.env") #MAC
+load_dotenv(r"C:\GianC\Fanta\key.env") #WIN
 
 class Database:
 

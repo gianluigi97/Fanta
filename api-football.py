@@ -6,7 +6,7 @@ import os
 from tqdm import tqdm
 import pandas as pd
 
-required_stats = ['games-played', 'goals', 'assists', 'yellow-cards', 'red-cards', 'dribble-percentage', 'goals-conceded', 'penalty-attempts', 'penalties-successful', 'Xg', 'tackles-won-perc', 'penalty-conceded', 'Substitute Off']
+required_stats = ['games-played', 'goals', 'assists', 'yellow-cards', 'red-cards', 'dribble-percentage', 'goals-conceded', 'penalty-attempts', 'penalties-successful', 'Xg', 'tackles-won-perc', 'penalty-conceded', 'Substitute On', 'Substitute Off']
 
 load_dotenv(r"C:\GianC\Fanta\key.env") #WIN
 seasonId="serie-a::Football_Season::ed7fdc2a3e7b408b942ec177b7b956b5"
@@ -52,7 +52,8 @@ for current_page in tqdm(range(1, 15),desc="download players",unit=" pagina", nc
 
 
 df = pd.DataFrame(data=players)
-df.to_csv(r"C:/GianC/Fanta/stats_giocatori.csv", index=False)
+df.to_csv(r"C:/GianC/Fanta/stats_giocatori_2.csv", index=False)
 print(df)
 
+# print(players)
 
